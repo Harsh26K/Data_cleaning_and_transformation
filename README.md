@@ -8,3 +8,6 @@ Data cleaning and transformation using excel and python
 * Add Column about how many people Answered particular Question
 * Add Column about how many people responded with particular response for each question
 * Rename some columns with short informative title
+
+##### Raw Data : Data - Survey Monkey Output.xlsx
+##### Output : Modified_Survey_Monkey_Output.xlsx
